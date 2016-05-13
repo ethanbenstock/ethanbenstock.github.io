@@ -21,7 +21,9 @@
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
 		display: block;
 	}
-
+	#floatt{
+		float: right;
+	}
 	body {
 		line-height: 1;
 	}
@@ -2297,7 +2299,7 @@
 	}
 
 		.image img {
-			border-radius: 4px;
+			border-radius:30%;
 			display: block;
 		}
 
